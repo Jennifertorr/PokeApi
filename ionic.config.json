@@ -1,0 +1,7 @@
+{
+  "name": "TallerPokeApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
